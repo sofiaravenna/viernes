@@ -1,0 +1,3 @@
+C:/Users/Ciro/CLionProjects/viernes/cmake-build-debug/CMakeFiles/viernes.dir
+C:/Users/Ciro/CLionProjects/viernes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ciro/CLionProjects/viernes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
